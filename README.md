@@ -5,7 +5,7 @@
 [线上地址](http://panjiachen.github.io/vueAdmin-template)
 
 ## Extra
-如果你想要根据用户角色来动态生成侧边栏和router，你可以使用改分支[permission-control](https://github.com/PanJiaChen/vueAdmin-template/tree/permission-control)
+此项目根据最简vueadmin进行了初步封装，将table，表单，modal，搜索等基础业务进行组件封装，方便调用
 
 ## Build Setup
 
